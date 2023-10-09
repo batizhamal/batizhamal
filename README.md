@@ -3,7 +3,7 @@
 <h1>About Me 🖇</h1>
 
 - 🎓: 3rd-year Computer Science student at Nazarbayev University - Astana, Kazakhstan.
-- 👩🏻‍💻: Front-end developer at "Kazdream Special Systems" LLC - Astana, Kazakhstan.
+- 👩🏻‍💻: Front-end Engineer at "Kazdream Special Systems" LLC - Astana, Kazakhstan.
 - 🌱: Currently learning AI on a course from Expansion Hub - TechOrda.
   
 <Br>
